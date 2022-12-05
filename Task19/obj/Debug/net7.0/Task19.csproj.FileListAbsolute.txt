@@ -1,0 +1,15 @@
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/bin/Debug/net7.0/Task19
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/bin/Debug/net7.0/Task19.deps.json
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/bin/Debug/net7.0/Task19.runtimeconfig.json
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/bin/Debug/net7.0/Task19.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/bin/Debug/net7.0/Task19.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.csproj.AssemblyReference.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.AssemblyInfoInputs.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.AssemblyInfo.cs
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.csproj.CoreCompileInputs.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/refint/Task19.dll
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.pdb
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/Task19.genruntimeconfig.cache
+/Users/monstruz/Desktop/Geekbrains/Seminar051222_Domashka/Task19/obj/Debug/net7.0/ref/Task19.dll
